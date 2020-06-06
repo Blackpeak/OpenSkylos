@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Open Skylos`,
-    description: `I am a no lifer that strugles to get a University degree`,
+    description: `I am a no lifer that struggles to get a University degree`,
     author: `Απρόσωπος`,
     siteUrl: `https://manosthemaster.github.io/`,
     social: {
