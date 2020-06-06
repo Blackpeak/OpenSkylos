@@ -8,8 +8,13 @@
   Open Skylos
 </h1>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1cd105b6-9c77-426d-855d-8d601f1b7573/deploy-status)](https://app.netlify.com/sites/openskylos/deploys)
+
 
 Inspired by [flexible-jekyll](https://github.com/artemsheludko/flexible-jekyll).
+
+# site is running 
+[here](https://openskylos.netlify.app/)
 
 ![home-page-screenshot](./static/promo-img.jpg)
 
