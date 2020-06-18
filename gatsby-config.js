@@ -6,9 +6,9 @@ module.exports = {
     siteUrl: `https://manosthemaster.github.io/`,
     social: {
       twitter: `aproswpos`,
-      facebook: ``,
+      facebook: `master.ths.florias`,
       github: `ManosTheMaster`,
-      linkedin: `manolisstamatakis`,
+      linkedin: ``,
       email: `themagicsport@gmail.com`,
     },
   },
